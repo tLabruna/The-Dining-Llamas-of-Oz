@@ -32,7 +32,7 @@ To use the dataset, clone this repository:
 git clone https://github.com/yourusername/The-Dining-Llamas-of-Oz.git
 ```
 
-You can find the dialogues in the `data/` directory, organized in JSON format. Each dialogue file contains:
+You can find the dialogues in the `DLO/` directory, containing train, dev and test dialogues organized in JSON format. Each dialogue file contains:
 - **user**: The user's utterances.
 - **system**: The system's responses.
 - **kb**: The knowledge base subset used for the dialogue.
