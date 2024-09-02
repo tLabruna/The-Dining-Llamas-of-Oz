@@ -1,4 +1,4 @@
-![The Dining Llamas of Oz](dining_llamas.png)
+<img src="dining_llamas.png" alt="The Dining Llamas of Oz" width="50%">
 
 # The Dining Llamas of Oz Corpus
 
