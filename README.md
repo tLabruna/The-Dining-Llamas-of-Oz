@@ -1,3 +1,5 @@
+![The Dining Llamas of Oz](dining_llamas.png)
+
 # The Dining Llamas of Oz Corpus
 
 Welcome to **The Dining Llamas of Oz** repository! This corpus is a collection of 1,311 task-oriented dialogues generated using the Llama-3 language model, specifically focused on restaurant booking scenarios. The dataset is designed to facilitate research in dialogue systems, particularly in maintaining consistency with a provided knowledge base (KB) and minimizing hallucinations.
